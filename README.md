@@ -1,6 +1,5 @@
-# Ricki Pollo
+# Ricki Pollo .com redirect
 
-Sitio estático migrado desde byagentx.com/ricki-pollo-demo.html.
+This GitHub Pages repo owns the custom domain `rickipollo.com` and redirects visitors to the canonical site:
 
-- Producción objetivo: https://rickipollo.com/
-- Fuente original: https://byagentx.com/ricki-pollo-demo.html
+<https://rickipollo.mx/>
